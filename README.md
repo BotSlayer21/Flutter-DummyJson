@@ -1,3 +1,3 @@
-# Flutter with using dummyjson
+# Flutter dummyjson
 
 A new Flutter project.
